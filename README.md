@@ -11,6 +11,12 @@ Welcome to my developer journal for spring 2026 *Capstone Project*!
 - Rafael Soares Cardoso
 - Urgen Lama
 
+**Team Communication:**
+- [SharePoint](https://saultcollege.sharepoint.com/sites/ITStudies/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FITStudies%2FShared%20Documents%2FPrograms%2FCSD%2FCSD235%20%2D%20Capstone%2F26W26S%2FTeams%2FCoffeeMachine%20%2D%20Rafael&viewid=2be2fb39%2Df455%2D48cc%2Db243%2Da826138bde88&p=true&ct=1778517730837&or=Teams%2DHL)
+- [Jira](https://coffeemachine-complicance.atlassian.net/jira/software/projects/SCRUM/summary)
+- [Whatsapp](https://web.whatsapp.com/)
+- [Basecamp](https://app.basecamp.com/6173539/projects/46458808)
+
 **Main Repositories:**
 - https://github.com/saultcollege-csd235/CoffeeMachine
 
