@@ -3,8 +3,8 @@ Welcome to my developer journal for spring 2026 *Capstone Project*!
 
 **Purpose:**
 - One spot to find everything
-- Timeline proof to submit to professor
-- Good practice 
+- Timeline proof to submit to professor (GitHub commit history)
+- Good practice
 
 ## Capstone Project Personal Records
 **Team Mates:**
@@ -28,4 +28,5 @@ Welcome to my developer journal for spring 2026 *Capstone Project*!
 | Folder Name | File Name | Description | Sprint # |
 |-------------|-----------|-------------|----------|
 | Spam | | Rough drafts, incomplete notes, brain-dumps, messy files | |
+| MeetingNotes | | Notes from meetings with our team, the sponsor, and the previous team | |
 | Deployment | | Research and notes to reach goal of deployment | 1 |
