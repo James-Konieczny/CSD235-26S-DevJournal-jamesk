@@ -28,5 +28,10 @@ Welcome to my developer journal for spring 2026 *Capstone Project*!
 | Folder Name | File Name | Description | Sprint # |
 |-------------|-----------|-------------|----------|
 | Spam | | Rough drafts, incomplete notes, brain-dumps, messy files | |
+| Spam | CodeReview.md | Summary of provided code, code analysis, notes | 0 |
+| Spam | CodeReviewQuestions.md | Questions/Answers concerning provided code | 0 |
+| Spam | DeploymentBD.md | Brainstorm/rough draft for deployment | 1 |
 | MeetingNotes | | Notes from meetings with our team, the sponsor, and the previous team | |
 | Deployment | | Research and notes to reach goal of deployment | 1 |
+| Deployment | StartingCode.md | Changes requried in current code to deploy | 1 |
+| Deployment | HowToDeploy.md | Breify step-by-step for deployment | 1 |
